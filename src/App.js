@@ -21,7 +21,7 @@ const onSubmit = (e) => {
   return (
     <div className='App text-center m-auto'>
 <form  onSubmit={onSubmit}>
-  <input type='text' value={query} onChange={e => setQuery(e.target.value)} />
+  <input type='text' value={query} onChange={e => setQuery(e.target.value)} placeholder='Enter A City' />
   <button type='submit' className='button-1 '>Enter</button>
 </form>
 <div  className='box text-center '>
