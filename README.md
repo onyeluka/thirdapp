@@ -1,4 +1,4 @@
 Simple weather App coded in 30 minutes, enjoy......
-here is the demo url:
+Used free API Key, You can susbscribe here to test in https://
 
-https://weatherapp-pharmluka.vercel.app/
+https://weatherstack.com/
